@@ -79,7 +79,7 @@ width: 30vw;
 height: 10vw;
 object-fit: contain;
 margin-inline: 0;
-
+z-index: -2;
 
 }
 
